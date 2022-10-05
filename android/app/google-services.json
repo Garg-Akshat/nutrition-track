@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8744995897",
+    "project_id": "nutrition-tracker-f7d83",
+    "storage_bucket": "nutrition-tracker-f7d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8744995897:android:f4b8f6c8d6f9adbea3d1e8",
+        "android_client_info": {
+          "package_name": "com.example.nutrition_intake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8744995897-hhdam9ev1855ld84mvtrlj81hcdle65g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXn6qJkiYGrJ75LcDf8LSRIEYpNJ1vME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8744995897-hhdam9ev1855ld84mvtrlj81hcdle65g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
